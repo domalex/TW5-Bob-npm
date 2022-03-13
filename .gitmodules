@@ -1,0 +1,6 @@
+[submodule "Plugins"]
+	path = Plugins
+	url = git@github.com:domalex/TW5-Bob-Plugins.git
+[submodule "Wikis"]
+	path = Wikis
+	url = git@github.com:domalex/Wikis.git
