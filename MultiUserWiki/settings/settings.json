@@ -14,8 +14,8 @@
   "saveMediaOnServer": "yes",
   "suppressBrowser": "false",
   "enableFederation": "no",
-  "enableFileServer": "no",
-  "filePathRoot": "./files",
+  "enableFileServer": "yes",
+  "filePathRoot": "./Wikis/files",
   "perWikiFiles": "no",
   "enableBobSaver": "yes",
   "persistentUsernames": "no",
@@ -149,7 +149,7 @@
     "disable": "no"
   },
   "backups": {
-    "enable": "no",
+    "enable": "yes",
     "backupFolder": "./backups",
     "backupInterval": 600000,
     "saveOnLoad": "yes",
